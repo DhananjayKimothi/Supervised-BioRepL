@@ -1,0 +1,4 @@
+kmer_dist --- To compute the frequency vector for sequences.
+fasta_to_fasttext --- conversion in desired format
+read_binary_file --- read the data generated from the binary file (c code)
+utils -- some utility functions
