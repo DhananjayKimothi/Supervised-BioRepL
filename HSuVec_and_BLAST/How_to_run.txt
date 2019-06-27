@@ -1,0 +1,4 @@
+H-Suvec_BLAST_exactsearch_review - This script generates the filtered DB for each query
+blast-it_hybrid --- This script generates blast dbs and the query results
+InterPre_recall_blast_out --- This script is to compute the interpolated precision recall values for each query and hence classes
+utils_herierchical_approach --- It contains utility functions
