@@ -1,0 +1,12 @@
+﻿  inference.c
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(117): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(127): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(127): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(294): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(295): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(263): warning C4101: 'neu2e': unreferenced local variable
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(261): warning C4101: 'neu2e_inlier': unreferenced local variable
+c:\users\dhananjay\desktop\review_plosone\inference\inference\inference.c(262): warning C4101: 'neu2e_outlier': unreferenced local variable
+  inference.vcxproj -> C:\Users\Dhananjay\Desktop\Review_PlosOne\inference\Debug\inference.exe

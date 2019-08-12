@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(118): warning C4101: 'number': unreferenced local variable
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(164): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(230): warning C4013: 'KmerIndex' undefined; assuming extern returning int
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(292): warning C4101: 'Leng': unreferenced local variable
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(431): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(458): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(459): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(461): warning C4018: '<': signed/unsigned mismatch
+c:\users\dhananjay\desktop\review_plosone\su_vectraining_\suvec_training\main.c(475): warning C4018: '<': signed/unsigned mismatch
+  SuVec_training.vcxproj -> C:\Users\Dhananjay\Desktop\Review_PlosOne\Su_vecTraining_\SuVec_training\Debug\SuVec_training.exe

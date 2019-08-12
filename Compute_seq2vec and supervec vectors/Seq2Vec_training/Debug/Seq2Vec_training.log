@@ -1,0 +1,16 @@
+﻿  main.c
+e:\supervec_codes_25072018\seq2vec_training\main.c(113): warning C4101: 'number': unreferenced local variable
+e:\supervec_codes_25072018\seq2vec_training\main.c(159): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(177): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(225): warning C4013: 'KmerIndex' undefined; assuming extern returning int
+e:\supervec_codes_25072018\seq2vec_training\main.c(291): warning C4101: 'Leng': unreferenced local variable
+e:\supervec_codes_25072018\seq2vec_training\main.c(438): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(467): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(468): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(470): warning C4018: '<': signed/unsigned mismatch
+e:\supervec_codes_25072018\seq2vec_training\main.c(487): warning C4018: '<': signed/unsigned mismatch
+e:\supervec_codes_25072018\seq2vec_training\main.c(576): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(577): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\supervec_codes_25072018\seq2vec_training\main.c(579): warning C4018: '<': signed/unsigned mismatch
+e:\supervec_codes_25072018\seq2vec_training\main.c(597): warning C4018: '<': signed/unsigned mismatch
+  Seq2Vec_training.vcxproj -> E:\SuperVec_Codes_25072018\Seq2Vec_training\Debug\Seq2Vec_training.exe
